@@ -34,18 +34,61 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/triet-le-274407133/
 
-- name: Roshan Rajapakse
-  pic: roshan
+- name: Roland Croft
+  pic: roland
   position: PhD. Student
   social:
     - title: link
-      url: https://github.com/RoshanRajapakse
+      url: https://rolandcroft.github.io/
     - title: twitter
-      url:https://twitter.com/rosh_nr
+      url: https://twitter.com/CroftRoland
     - title: linkedin
-      url: https://www.linkedin.com/in/roshanrajapakse/
+      url: https://www.linkedin.com/in/rolandcroft/
 
+- name: Yongzheng (Craig) Xie
+  pic: craig
+  position: PhD. Student
+  social:
+    - title: twitter
+      url: https://twitter.com/craig_xie
+    - title: linkedin
+      url: https://www.linkedin.com/in/craig-xie-b78aa75b/
 
+- name: Mubin Ul Haque
+  pic: mubin
+  position: PhD. Student
+  social:
+    - title: twitter
+      url: https://twitter.com/Mubin_Swarup
+    - title: linkedin
+      url: https://www.linkedin.com/in/mubin-haque-487a57a5/
+
+- name: Bushra Sabir
+  pic: bushra
+  position: PhD. Student
+  social:
+    - title: twitter
+      url: https://twitter.com/Bushra_Sabir
+    - title: linkedin
+      url: https://www.linkedin.com/in/bushra-sabir-8a51086a/
+      
+- name: Mehdi Kholoosi
+  pic: mehdi
+  position: PhD. Student
+  social:
+    - title: twitter
+      url: https://twitter.com/MehdiKholoosi
+    - title: linkedin
+      url: https://www.linkedin.com/in/mehdi-kholoosi/
+      
+- name: Ali Kazemi Arani
+  pic: ali_k
+  position: PhD. Student
+  social:
+    - title: twitter
+      url: https://twitter.com/KazemiAli_
+    - title: linkedin
+      url: https://www.linkedin.com/in/ali-kazemi-arani-a8739552/
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
