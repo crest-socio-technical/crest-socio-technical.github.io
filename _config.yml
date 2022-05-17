@@ -5,9 +5,9 @@ url: http://ssi.crest-centre.net
 baseurl: ""
 
 # Site settings
-title: CREST SSI
+title: CREST Socio-Technical
 email: roland.croft@adelaide.edu.au
-description: "Software Security Intelligence Research Cluster"
+description: "Socio-Technical Research Cluster"
 
 
 # Team names, titles and social links
@@ -23,8 +23,8 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/ali-babar-5bb4884
 
-- name: Triet Le
-  pic: triet
+- name: Asangi Jayatilaka
+  pic: asangi
   position: Post-Doctorate
   social:
     - title: link
