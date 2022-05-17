@@ -6,7 +6,7 @@ baseurl: ""
 
 # Site settings
 title: CREST Socio-Technical
-email: roland.croft@adelaide.edu.au
+email: asangi.jayathilaka@adelaide.edu.au
 description: "Socio-Technical Research Cluster"
 
 
@@ -39,9 +39,9 @@ people:
   position: PhD. Student
   social:
     - title: twitter
-      url: https://twitter.com/craig_xie
+      url: https://twitter.com/
     - title: linkedin
-      url: https://www.linkedin.com/in/craig-xie-b78aa75b/
+      url: https://www.linkedin.com/
 
 - name: Roshan Rajapakse
   pic: roshan
@@ -59,9 +59,9 @@ people:
   position: PhD. Student
   social:
     - title: twitter
-      url: https://twitter.com/Mubin_Swarup
+      url: https://twitter.com/
     - title: linkedin
-      url: https://www.linkedin.com/in/mubin-haque-487a57a5/
+      url: https://www.linkedin.com/
       
 - name: Isuru Dharmadasa
   pic: isuru
