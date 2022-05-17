@@ -34,6 +34,15 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/roshanrajapakse/
 
+- name: Nesara Dissanayake
+  pic: nesara
+  position: PhD. Student
+  social:
+    - title: twitter
+      url: https://twitter.com/craig_xie
+    - title: linkedin
+      url: https://www.linkedin.com/in/craig-xie-b78aa75b/
+
 - name: Roshan Rajapakse
   pic: roshan
   position: PhD. Student
@@ -44,15 +53,6 @@ people:
       url: https://twitter.com/rosh_nr
     - title: linkedin
       url: https://www.linkedin.com/in/roshanrajapakse/
-
-- name: Nesara Dissanayake
-  pic: nesara
-  position: PhD. Student
-  social:
-    - title: twitter
-      url: https://twitter.com/craig_xie
-    - title: linkedin
-      url: https://www.linkedin.com/in/craig-xie-b78aa75b/
 
 - name: Orvila Sarker
   pic: orvila
