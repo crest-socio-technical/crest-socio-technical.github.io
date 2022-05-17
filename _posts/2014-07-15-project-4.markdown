@@ -1,6 +1,6 @@
 ---
-title: Automated Security Configuration and Compliance of Containerized Infrastructure
-subtitle: Application
+title: Sample Project 4
+subtitle: Sub-heading
 layout: default
 modal-id: 4
 date: 13/12/2021
@@ -14,20 +14,14 @@ category: Analytics and Intelligence
 
 # Overview
 
-Containers become increasingly popular as a virtualization technology to build softwarized infrastructures. A container includes an application and its dependencies such as code, libraries, and configuration files to support a target application. Thus, containers promote modularity and reproducibility, two of the reasons for making containers popular.
+Overview of the project
 
-Security is a critical consideration while adopting containerization. Several survey results among software professionals indicated security as the top-concern in establishing a reliable container environment.
-
-In this project, we leverage various automated approaches to develop tools and techniques to better understand the developers’ viewpoint on security while adopting container technologies. We study a large volume of container-related data in open source software repositories (GitHub), Question/Answering Platforms (Stack Overflow, Docker Forum) as well as container image repositories (Docker Hub) to find and analyse the security issues.
-
-This research will help container developers and researchers to understand container security requirements, provide a broad view of possible security attacks and their countermeasures.
 
 # Publications
 
-- [Well Begun is Half Done: An Empirical Study of Exploitability & Impact of Base-Image Vulnerabilities. 2021.](https://arxiv.org/pdf/2112.12597.pdf)  
-- [KGSecConfig: A Knowledge Graph Based Approach for Secured Container Orchestrator Configuration. 2021.](https://arxiv.org/pdf/2112.12595.pdf)  
-- [Challenges in docker development: A large-scale study using stack overflow. 2020.](https://dl.acm.org/doi/pdf/10.1145/3382494.3410693)  
+- [Publication1. Year.](URL)  
 
-# Team Members
+# Project Members
 
-- Mubin Ul Haque
+- member1
+- member2

@@ -1,6 +1,6 @@
 ---
 title: Sample Projec 1
-subtitle: Application
+subtitle: Sub-heading
 layout: default
 modal-id: 1
 date: 13/12/2021
