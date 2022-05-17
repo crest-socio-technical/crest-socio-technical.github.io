@@ -28,25 +28,25 @@ people:
   position: Post-Doctorate
   social:
     - title: link
-      url: https://sites.google.com/site/triethmle
+      url: https://github.com/RoshanRajapakse
     - title: twitter
-      url: https://twitter.com/lhmtriet
+      url: https://twitter.com/rosh_nr
     - title: linkedin
-      url: https://www.linkedin.com/in/triet-le-274407133/
+      url: https://www.linkedin.com/in/roshanrajapakse/
 
 - name: Roshan Rajapakse
   pic: roshan
   position: PhD. Student
   social:
     - title: link
-      url: https://rolandcroft.github.io/
+      url: https://github.com/RoshanRajapakse
     - title: twitter
-      url: https://twitter.com/CroftRoland
+      url: https://twitter.com/rosh_nr
     - title: linkedin
-      url: https://www.linkedin.com/in/rolandcroft/
+      url: https://www.linkedin.com/in/roshanrajapakse/
 
-- name: Yongzheng (Craig) Xie
-  pic: craig
+- name: Nesara Dissanayake
+  pic: nesara
   position: PhD. Student
   social:
     - title: twitter
@@ -54,42 +54,25 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/craig-xie-b78aa75b/
 
-- name: Mubin Ul Haque
-  pic: mubin
+- name: Orvila Sarker
+  pic: orvila
   position: PhD. Student
   social:
     - title: twitter
       url: https://twitter.com/Mubin_Swarup
     - title: linkedin
       url: https://www.linkedin.com/in/mubin-haque-487a57a5/
-
-- name: Bushra Sabir
-  pic: bushra
-  position: PhD. Student
-  social:
-    - title: twitter
-      url: https://twitter.com/Bushra_Sabir
-    - title: linkedin
-      url: https://www.linkedin.com/in/bushra-sabir-8a51086a/
       
-- name: Mehdi Kholoosi
-  pic: mehdi
+- name: Isuru Dharmadasa
+  pic: isuru
   position: PhD. Student
   social:
+    - title: link
+      url: https://sites.google.com/view/isuru-dharmadasa/
     - title: twitter
-      url: https://twitter.com/MehdiKholoosi
+      url: https://twitter.com/isurudharmadasa
     - title: linkedin
-      url: https://www.linkedin.com/in/mehdi-kholoosi/
-      
-- name: Ali Kazemi Arani
-  pic: ali_k
-  position: PhD. Student
-  social:
-    - title: twitter
-      url: https://twitter.com/KazemiAli_
-    - title: linkedin
-      url: https://www.linkedin.com/in/ali-kazemi-arani-a8739552/
-
+      url: https://www.linkedin.com/in/isurudharmadasa/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
