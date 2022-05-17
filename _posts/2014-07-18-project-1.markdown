@@ -1,5 +1,5 @@
 ---
-title: Just-in-time Software Vulnerability Detection and Assessment
+title: Socio-Technical Aspects
 subtitle: Application
 layout: default
 modal-id: 1
