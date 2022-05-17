@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CREST SSI</title>
-    <description>Software Security Intelligence Research Cluster</description>
+    <title>CREST Socio-Technical</title>
+    <description>Socio-Technical Research Cluster</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     <pubDate>Mon, 13 Dec 2021 23:12:12 +1030</pubDate>
@@ -10,7 +10,7 @@
     <generator>Jekyll v4.1.1</generator>
     
       <item>
-        <title>Just-in-time Software Vulnerability Detection and Assessment</title>
+        <title>Social Aspects -2 </title>
         <description>&lt;h1 id=&quot;overview&quot;&gt;Overview&lt;/h1&gt;
 
 &lt;p&gt;TBD.&lt;/p&gt;
