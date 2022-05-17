@@ -27,12 +27,10 @@ people:
   pic: asangi
   position: Post-Doctorate
   social:
-    - title: link
-      url: https://github.com/RoshanRajapakse
     - title: twitter
-      url: https://twitter.com/rosh_nr
+      url: https://twitter.com/
     - title: linkedin
-      url: https://www.linkedin.com/in/roshanrajapakse/
+      url: https://www.linkedin.com/
 
 - name: Nesara Dissanayake
   pic: nesara
@@ -47,8 +45,6 @@ people:
   pic: roshan
   position: PhD. Student
   social:
-    - title: link
-      url: https://github.com/RoshanRajapakse
     - title: twitter
       url: https://twitter.com/rosh_nr
     - title: linkedin
