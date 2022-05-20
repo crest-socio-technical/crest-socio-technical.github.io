@@ -14,7 +14,7 @@ description: "Socio-Technical Research Cluster"
 people:
 - name: Prof. M. Ali Babar
   pic: ali
-  position: CREST Director
+  position: Professor & Director CREST
   social:
     - title: link
       url: https://malibabar.wordpress.com/
@@ -25,7 +25,7 @@ people:
 
 - name: Asangi Jayatilaka
   pic: asangi
-  position: Post-Doctorate
+  position: Post Doc
   social:
     - title: twitter
       url: https://twitter.com/DrAsangiJ
