@@ -1,15 +1,16 @@
 ---
 title: Security training, education and awareness evaluation
-subtitle: Security Education
+subtitle: Security training
 layout: default
-modal-id: 4
-date: 13/12/2021
+modal-id: 1
+date: 01/09/2019
 img: phishing.jpg
 thumbnail: phishing-thumbnail.png
-alt: image-alt
-project-date: March 2022
+alt: svp
+project-date: August 2019
 client: Start Bootstrap
 category: Analytics and Intelligence
+description: 
 ---
 
 # Overview
