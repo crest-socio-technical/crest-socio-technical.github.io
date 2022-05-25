@@ -11,7 +11,7 @@ description: "Socio-Technical Research Cluster"
 
 
 # Team names, titles and social links
-people:
+faculty:
 - name: Prof. M. Ali Babar
   pic: ali
   position: Professor & Director CREST
@@ -29,7 +29,8 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/sherif-haggag/
-
+      
+people:
 - name: Asangi Jayatilaka
   pic: asangi
   position: Post Doc
