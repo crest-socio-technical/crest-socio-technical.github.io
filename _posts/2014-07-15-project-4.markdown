@@ -4,8 +4,8 @@ subtitle: DevSecOps
 layout: default
 modal-id: 4
 date: 01/09/2019
-img: phishing.jpg
-thumbnail: phishing-thumbnail.png
+img: devsec.jpg
+thumbnail: devsec-thumbnail.png
 alt: image-alt
 project-date: March 2022
 client: Start Bootstrap
