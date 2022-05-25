@@ -1,5 +1,5 @@
 ---
-title: An Evidence-Based Understanding of Socio-Technical Aspects of Software Security Patch Management
+title: Socio-technical aspects of security patch management
 subtitle: Software Security Patch Management
 layout: default
 modal-id: 1
