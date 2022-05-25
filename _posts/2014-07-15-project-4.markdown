@@ -2,7 +2,7 @@
 title: DevSecOps for intra-organizational software dev. teams
 subtitle: DevSecOps
 layout: default
-modal-id: 5
+modal-id: 4
 date: 13/12/2021
 img: phishing.jpg
 thumbnail: phishing-thumbnail.png
