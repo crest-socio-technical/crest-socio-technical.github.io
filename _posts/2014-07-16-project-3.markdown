@@ -3,7 +3,7 @@ title: CCOP- Platform to gather and visualise cyber security data
 subtitle: Cybersecurity Data Visualization
 layout: default
 modal-id: 3
-date: 13/12/2021
+date: 01/09/2019
 img: phishing.jpg
 thumbnail: phishing-thumbnail.png
 alt: ccop-architecture
