@@ -1,6 +1,6 @@
 ---
 title: Security training, education and awareness evaluation
-subtitle: Security training
+subtitle: Security Training
 layout: default
 modal-id: 1
 date: 01/09/2019
