@@ -1,5 +1,5 @@
 ---
-title: CCOP: Platform to gather and visualise cyber security data
+title: CCOP- Platform to gather and visualise cyber security data
 subtitle: Cybersecurity Data Visualization
 layout: default
 modal-id: 3
