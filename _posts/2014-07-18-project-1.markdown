@@ -10,7 +10,7 @@ alt: svp
 project-date: August 2019
 client: Start Bootstrap
 category: Analytics and Intelligence
-description: Project description
+description: 
 ---
 
 # Overview
