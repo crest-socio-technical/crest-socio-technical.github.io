@@ -5,7 +5,7 @@ layout: default
 modal-id: 3
 date: 01/09/2019
 img: ccop.jpg
-thumbnail: ccop-thumbnail.png
+thumbnail: ccop-thumbnail.jpg
 alt: ccop-architecture
 project-date: March 2022
 client: Start Bootstrap

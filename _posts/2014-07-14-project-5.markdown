@@ -5,7 +5,7 @@ layout: default
 modal-id: 5
 date: 01/09/2019
 img: training.jpg
-thumbnail: training-thumbnail.png
+thumbnail: training-thumbnail.jpg
 alt: svp
 project-date: March 2022
 client: Start Bootstrap
