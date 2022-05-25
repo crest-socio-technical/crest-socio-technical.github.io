@@ -1,13 +1,13 @@
 ---
-title: Sample Projec 1
-subtitle: Sub-heading
+title: An Evidence-Based Understanding of Socio-Technical Aspects of Software Security Patch Management
+subtitle: Software Security Patch Management
 layout: default
 modal-id: 1
-date: 13/12/2021
+date: 01/09/2019
 img: jit_svp.jpg
 thumbnail: jit_svp-thumbnail.png
 alt: svp
-project-date: March 2022
+project-date: August 2019
 client: Start Bootstrap
 category: Analytics and Intelligence
 description: Project description
@@ -15,14 +15,17 @@ description: Project description
 
 # Overview
 
-Overview of the project
+Numerous security attacks that resulted in devastating consequences can be traced back to a delay in applying a security patch. Several security incidents and research studies reveal that delays in applying readily available security patches are one of the main reasons for successful cyberattacks. Software security patch management refers to the process consisting of identifying, acquiring, installing, and verifying security patches to address the identified vulnerabilities in software systems. Despite the criticality of timely patch management, there is relatively less known about the socio-technical aspects of software security patch management. This presents an important limitation given the software security patch management process is inherently a socio-technical endeavour, where human and technological interactions are tightly coupled, such that the success of security patching depends on the effective collaboration and coordination of humans with the technical systems. This has led to increased recognition and importance of evidence-based understanding of the socio-technical aspects of security patch management. This research project aims to empirically study the socio-technical aspects of software security patch management to reduce delays in applying security patches and improve the process through human and machine collaborative approaches.
 
 
 # Publications
 
-- [Publication1. Year.](URL)  
+- [Software security patch management - A systematic literature review of challenges, approaches, tools and practices. 2022.](https://www.sciencedirect.com/science/article/pii/S0950584921002147?via%3Dihub)  
 
 # Project Members
 
-- member1
-- member2
+
+- Nesara Dissanayake
+- Asangi Jayatilaka
+- Mansooreh Zahedi
+- M. Ali Babar
