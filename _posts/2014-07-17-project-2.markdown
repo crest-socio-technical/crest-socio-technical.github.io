@@ -4,8 +4,8 @@ subtitle: Email Security
 layout: default
 modal-id: 2
 date: 13/12/2021
-img: data_quality.jpg
-thumbnail: data_quality-thumbnail.png
+img: phishing.jpg
+thumbnail: phishing-thumbnail.png
 alt: image-alt
 project-date: March 2022
 client: Start Bootstrap
