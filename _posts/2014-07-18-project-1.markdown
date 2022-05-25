@@ -4,8 +4,8 @@ subtitle: Software Security Patch Management
 layout: default
 modal-id: 1
 date: 01/09/2019
-img: jit_svp.jpg
-thumbnail: jit_svp-thumbnail.png
+img: patch.jpg
+thumbnail: patch-thumbnail.jpg
 alt: svp
 project-date: August 2019
 client: Start Bootstrap
