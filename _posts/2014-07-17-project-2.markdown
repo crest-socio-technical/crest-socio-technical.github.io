@@ -1,6 +1,6 @@
 ---
-title: Sample Project 2
-subtitle: Sub-heading
+title: Empirical investigations into users email response behaviours
+subtitle: Email Security
 layout: default
 modal-id: 2
 date: 13/12/2021
@@ -10,19 +10,19 @@ alt: image-alt
 project-date: March 2022
 client: Start Bootstrap
 category: Analytics and Intelligence
-description: Project Description 
+description: 
 ---
 
 # Overview
 
-Overview of the project
-
+Despite sophisticated phishing email detection systems, and training and awareness programs, humans continue to be tricked by phishing emails. Having a deeper understanding of user behaviours concerning email responses could better inform the design of any human-centric tool or technique. However, there is a gap in the  literature with respect to the thought process a user goes through when deciding how to respond to their emails. A better understanding of the factors usually involved in making decisions about email communications can help understand why phishing emails still work and how best to mitigate the risks. To address this research gap, we conduct empirical investigations by employing 'think-aloud' methods to understand the users' thought processors in email decision making and the reasons why people still continue to fall for phishing emails. Based on this knowledge we aim to develop behavioural plugin for email clients to nudge users secure behaviours in the wild.
 
 # Publications
 
-- [Publication1. Year.](URL)  
+- [Falling for Phishing: An Empirical Investigation into People’s Email Response Behaviours. 2022.](https://arxiv.org/ftp/arxiv/papers/2108/2108.04766.pdf)  
 
 # Project Members
 
-- member1
-- member2
+- Asangi Jayatilaka
+- Nalin Asanka Gamagedara
+- M. Ali Babar

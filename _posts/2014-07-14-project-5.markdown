@@ -1,6 +1,6 @@
 ---
-title: Sample Project 5
-subtitle: Sub-heading
+title: DevSecOps for intra-organizational software development teams
+subtitle: DevSecOps
 layout: default
 modal-id: 5
 date: 13/12/2021
@@ -10,19 +10,22 @@ alt: image-alt
 project-date: March 2022
 client: Start Bootstrap
 category: Analytics and Intelligence
-description: Project Description 
+description: 
 ---
 
 # Overview
 
-Overview of the project
+DevSecOps is an emerging software development paradigm that aims to continuously and rapidly deliver secure software. However, practitioners are facing many challenges in keeping up with the pace of rapid deployment cycles of DevSecOps while performing security assessments (e.g. Application Security Testing). Studies have further highlighted that the paradigm shift related to adopting DevSecOps is inherently centred on the culture of the organization. To this end, fostering a highly collaborative environment is seen as central to the success of DevSecOps. However, despite socio-technical aspects playing a major role in DevSecOps, it is an area with less focus in the literature. Therefore, this project aims systematically review existing state-of-the-art on the topic, revealing novel and hidden socio-technical understanding of DevSecOps processes, practices, and tools. The findings from the review of the existing literature and DevSecOps practitioner based studies will be systematically integrated to build an evidence-based body of knowledge that will allow the project team to determine the areas where methodological and tool support is required. 
+
 
 
 # Publications
 
-- [Publication1. Year.](URL)  
-
+- [Challenges and solutions when adopting DevSecOps: A systematic review. 2022.](https://www.sciencedirect.com/science/article/pii/S0950584921001543)  
+- [An Empirical Analysis of Practitioners' Perspectives on Security Tool Integration into DevOps. 2021](https://dl.acm.org/doi/abs/10.1145/3475716.3475776)
 # Project Members
 
-- member1
-- member2
+- Roshan N.Rajapakse
+- Mansooreh Zahedi
+- M. Ali Babar
+- Haifeng Shen

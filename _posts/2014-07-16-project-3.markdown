@@ -1,6 +1,6 @@
 ---
-title: Sample Project 3
-subtitle: Sub-heading
+title: CCOP: Platform to gather and visualise cyber security data
+subtitle: Cybersecurity Data Visualization
 layout: default
 modal-id: 3
 date: 13/12/2021
@@ -10,19 +10,21 @@ alt: ccop-architecture
 project-date: March 2022
 client: Start Bootstrap
 category: Analytics and Intelligence
-description: Project Description 
+description: 
 ---
 
 # Overview
-
-Overview of the project
-
+Without a common and holistic way to capture and identify the current security posture of an organisation’s systems, services, and networks, decision-makers are underequipped to make complex business decisions related to security. The repercussions of suboptimal decisions and delays in decision making could go far beyond data loss. It could result in loss of reputation, loss of competitive advantage, as well as damage to the brand value. The aim of this R&D project is to identify ways to address this problem by developing Cyber Common Operating Pictures (CCOP). The CCOP captures the current security status of an organisation through a set of metrics and related visualisations. CCOP aims to assist managers and executive decision-makers in assessing risks, allocating resources, and altering the state of operations of the organisation in response to real and potential security risks.   We follow a user-centred approach in the design of the CCOP. We conducted user studies with the industry to evaluate the dashboard prototypes  at various stages of the project. 
 
 # Publications
 
-- [Publication1. Year.](URL)  
+- [Systematic Literature Review on Cyber Situational Awareness Visualizations. 2022.](URL)  
 
 # Project Members
 
-- member1
-- member2
+- Liuyue Jiang
+- Asangi Jayatilaka
+- Mehwish Nasim
+- Marthie Grobler
+- Mansooreh Zahedi
+- M. Ali Babar
