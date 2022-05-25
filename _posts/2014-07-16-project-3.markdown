@@ -4,8 +4,8 @@ subtitle: Cybersecurity Data Visualization
 layout: default
 modal-id: 3
 date: 01/09/2019
-img: phishing.jpg
-thumbnail: phishing-thumbnail.png
+img: ccop.jpg
+thumbnail: ccop-thumbnail.png
 alt: ccop-architecture
 project-date: March 2022
 client: Start Bootstrap

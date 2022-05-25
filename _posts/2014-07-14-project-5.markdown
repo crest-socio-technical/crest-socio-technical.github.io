@@ -4,8 +4,8 @@ subtitle: Security Training
 layout: default
 modal-id: 5
 date: 01/09/2019
-img: phishing.jpg
-thumbnail: phishing-thumbnail.png
+img: training.jpg
+thumbnail: training-thumbnail.png
 alt: svp
 project-date: March 2022
 client: Start Bootstrap
