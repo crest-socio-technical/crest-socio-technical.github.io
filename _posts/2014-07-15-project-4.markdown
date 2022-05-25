@@ -4,8 +4,8 @@ subtitle: Security Education
 layout: default
 modal-id: 4
 date: 13/12/2021
-img: container.jpg
-thumbnail: container-thumbnail.png
+img: phishing.jpg
+thumbnail: phishing-thumbnail.png
 alt: image-alt
 project-date: March 2022
 client: Start Bootstrap
@@ -13,7 +13,6 @@ category: Analytics and Intelligence
 ---
 
 # Overview
-
 Technology alone cannot be considered a comprehensive solution to the increasingly sophisticated security threats; the employees of an organisation are actually the primary target and the weakest line of defence. When it comes to the “human factor”, security training and awareness programs are critical for maintaining up-to-date knowledge of security risk-prone activities and available mitigation measures. Security training and awareness in and of itself is not enough though; it is essential to measure their effectiveness. Those who are tasked with managing awareness programs often question, “how can we show that security awareness training is worth the investment?” and  “how can we show that security awareness training is creating behavioural changes in employees?”. In this project we aim to identify best practice frameworks and metrics to effectively measure the effectiveness of security training, education and awareness programs.
 
 
