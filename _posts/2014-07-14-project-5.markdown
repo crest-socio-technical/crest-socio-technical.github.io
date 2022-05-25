@@ -1,5 +1,5 @@
 ---
-title: DevSecOps for intra-organizational software development teams
+title: DevSecOps for intra-organizational software dev. teams
 subtitle: DevSecOps
 layout: default
 modal-id: 5
