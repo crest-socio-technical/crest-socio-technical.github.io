@@ -1,5 +1,5 @@
 ---
-title: Empirical investigations into users email response behaviours
+title: Empirical investigations into users email responses
 subtitle: Email Security
 layout: default
 modal-id: 2
