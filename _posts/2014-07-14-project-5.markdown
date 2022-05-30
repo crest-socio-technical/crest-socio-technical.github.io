@@ -21,12 +21,8 @@ Technology alone cannot be considered a comprehensive solution to the increasing
 
 - [Evaluation of Security Training and Awareness Programs: Review of Current Practices and Guideline. 2021.](https://arxiv.org/pdf/2112.06356.pdf)  
 
-# Project Members
+#Team Members
 
 - Asangi Jayatilaka
-- Nathan Beu
-- Irina Baetu
 - Mansooreh Zahedi
 - M. Ali Babar
-- Laura Hartley
-- Winston Lewinsmith

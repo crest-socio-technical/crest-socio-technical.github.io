@@ -21,7 +21,7 @@ Despite sophisticated phishing email detection systems, and training and awarene
 
 - [Falling for Phishing: An Empirical Investigation into People’s Email Response Behaviours. 2022.](https://arxiv.org/ftp/arxiv/papers/2108/2108.04766.pdf)  
 
-# Project Members
+#Team Members
 
 - Asangi Jayatilaka
 - Nalin Asanka Gamagedara

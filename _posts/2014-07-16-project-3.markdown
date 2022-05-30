@@ -20,11 +20,9 @@ Without a common and holistic way to capture and identify the current security p
 
 - [Systematic Literature Review on Cyber Situational Awareness Visualizations. 2022.](URL)  
 
-# Project Members
+#Team Members
 
 - Liuyue Jiang
 - Asangi Jayatilaka
-- Mehwish Nasim
-- Marthie Grobler
 - Mansooreh Zahedi
 - M. Ali Babar

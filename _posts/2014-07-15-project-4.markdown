@@ -23,10 +23,10 @@ DevSecOps is an emerging software development paradigm that aims to continuously
 
 - [Challenges and solutions when adopting DevSecOps: A systematic review. 2022.](https://www.sciencedirect.com/science/article/pii/S0950584921001543)  
 - [An Empirical Analysis of Practitioners' Perspectives on Security Tool Integration into DevOps. 2021](https://dl.acm.org/doi/abs/10.1145/3475716.3475776)
-# Project Members
+#Team Members
 
 - Roshan N.Rajapakse
 - Mansooreh Zahedi
 - M. Ali Babar
-- Haifeng Shen
+
 
