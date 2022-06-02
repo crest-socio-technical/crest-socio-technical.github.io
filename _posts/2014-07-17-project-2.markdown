@@ -1,5 +1,5 @@
 ---
-title: Empirical investigations into users email responses
+title: Human-centric aspects in phishing
 subtitle: Email Security
 layout: default
 modal-id: 2

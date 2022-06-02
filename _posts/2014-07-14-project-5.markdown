@@ -1,5 +1,5 @@
 ---
-title: Security training, education and awareness evaluation
+title: Security training, education and awareness design & evaluation
 subtitle: Security Training
 layout: default
 modal-id: 5
@@ -14,7 +14,7 @@ description:
 ---
 
 # Overview
-Technology alone cannot be considered a comprehensive solution to the increasingly sophisticated security threats; the employees of an organisation are actually the primary target and the weakest line of defence. When it comes to the “human factor”, security training and awareness programs are critical for maintaining up-to-date knowledge of security risk-prone activities and available mitigation measures. Security training and awareness in and of itself is not enough though; it is essential to measure their effectiveness. Those who are tasked with managing awareness programs often question, “how can we show that security awareness training is worth the investment?” and  “how can we show that security awareness training is creating behavioural changes in employees?”. In this project we aim to identify best practice frameworks and metrics to effectively measure the effectiveness of security training, education and awareness programs.
+Technology alone cannot be considered a comprehensive solution to the increasingly sophisticated security threats; the employees of an organisation are actually the primary target and the weakest line of defence. When it comes to the “human factor”, security training and awareness programs are critical for maintaining up-to-date knowledge of security risk-prone activities and available mitigation measures. Unfortunately, security training awareness programs have had limited success due to their poor designs and lack of evaluations.  Therefore, in this research, we focus on understanding how to design effective security training awareness programs and evaluate their performance. Furthermore, given the rapid growth of phishing attacks, we also separately investigate how to design, implement and evaluate phishing training, education and awareness interventions to make a real difference in how we combat phishing attacks in the future.
 
 
 # Publications
@@ -24,5 +24,7 @@ Technology alone cannot be considered a comprehensive solution to the increasing
 # Team Members
 
 - Asangi Jayatilaka
+- Orvila Sarker
 - Mansooreh Zahedi
+- Sherif Haggag
 - M. Ali Babar
