@@ -67,16 +67,6 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/orvila-sarker-03941814b/
       
-- name: Isuru Dharmadasa
-  pic: isuru
-  position: PhD. Student
-  social:
-    - title: link
-      url: https://sites.google.com/view/isuru-dharmadasa/
-    - title: twitter
-      url: https://twitter.com/isurudharmadasa
-    - title: linkedin
-      url: https://www.linkedin.com/in/isurudharmadasa/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
